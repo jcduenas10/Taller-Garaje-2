@@ -1,0 +1,6 @@
+com\uts\taller1\vehicleapp\persistence\VehiculoDAO.class
+com\uts\taller1\vehicleapp\resources\JakartaEE10Resource.class
+com\uts\taller1\vehicleapp\JakartaRestConfiguration.class
+com\uts\taller1\vehicleapp\controller\VehiculoServlet.class
+com\uts\taller1\vehicleapp\facade\VehiculoFacade.class
+com\uts\taller1\vehicleapp\model\Vehiculo.class
